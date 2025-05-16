@@ -1,15 +1,15 @@
 # Goodcabs-Performance-Dashboard
 ![GOODCABS (1)](https://github.com/user-attachments/assets/107d8a7a-0832-448a-a4cb-ff647213e76c)
-![image](https://github.com/user-attachments/assets/3d402fcb-a638-461f-840d-aa46b42106ef)
+![c](https://vellorecalltaxi.com/images/car-mov.gif)
 
 
 ## 🏢Goodcabs Company Overview
 GoodCabs, an imaginary company established two years ago, has quickly become a leading cab service provider in India's tier-II cities. Unlike traditional competitors, GoodCabs is driven by a mission to
 empower local drivers, helping them build sustainable livelihoods within their communities while providing passengers with exceptional service. Operating across 10 tier-II cities, GoodCabs combines a 
 -focused approach with a commitment to delivering a seamless travel experience. It aims to solidify its position as a trusted mobility partner in underserved markets
-https://vellorecalltaxi.com/images/car-mov.gif
 
-## Problem Statement
+
+## 🔎Problem Statement
 Goodcabs has been operating in tier-II cities for two years, but it is still far from reaching its market penetration goals. Despite establishing a solid presence in these areas, the company is struggling to meet its ambitious 2024 targets.
 To overcome this challenge, Goodcabs needs an in-depth analysis of key performance metrics. This analysis will help identify critical growth opportunities and resolve operational inefficiencies that are hindering progress.
 
