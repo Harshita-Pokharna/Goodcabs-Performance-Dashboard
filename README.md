@@ -28,7 +28,7 @@ targets_db: Contained city- and month-level targets across three tables — mont
 Data Visualization: Tableau Public
 Data Analysis: MySQL
 
-# 🔍 Key Insights:
+## 🔍 Key Insights:
 Jaipur generated the highest revenue (₹37.2M) but relied heavily on new passengers (80%), indicating a need for improved retention efforts.
 
 Lucknow had a high trip volume but underperformed in revenue due to poor passenger ratings and low fare per trip.
@@ -37,7 +37,7 @@ Mysore surpassed trip targets by 20% and maintained strong customer satisfaction
 
 Surat achieved the highest repeat passenger rate (42%), despite offering lower fares, showing strong brand loyalty.
 
-# 💡 Recommendations:
+## 💡 Recommendations:
 Boost retention in high-revenue cities like Jaipur through loyalty programs, incentives, or engagement campaigns.
 
 In Lucknow, focus on service quality improvements to raise ratings and justify fare increases.
@@ -47,4 +47,15 @@ Leverage Mysore’s strategy as a model for performance—emphasizing both volum
 Promote repeat rider behavior using targeted retention strategies in cities like Surat, which show potential despite pricing constraints.
 
 Use seasonal trend analysis to optimize marketing and resource planning during off-peak months.
+
+## Executive Dashboard
+![Screenshot 2025-06-06 193058](https://github.com/user-attachments/assets/d627c91e-fe04-441c-b39d-330bfa837818)
+
+## City Dashboard
+![Screenshot 2025-06-06 193222](https://github.com/user-attachments/assets/9975a3c4-e7b0-4b11-af57-8a48b1495c8f)
+
+## Passenger Dashboard
+![Screenshot 2025-06-06 193324](https://github.com/user-attachments/assets/12c019ff-63ae-4ab7-b048-bdc6a9e0a217)
+
+
 
