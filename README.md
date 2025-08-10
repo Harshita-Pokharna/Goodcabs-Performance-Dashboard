@@ -49,7 +49,8 @@ Promote repeat rider behavior using targeted retention strategies in cities like
 Use seasonal trend analysis to optimize marketing and resource planning during off-peak months.
 
 ## Executive Dashboard
-![Screenshot 2025-06-06 193058](https://github.com/user-attachments/assets/d627c91e-fe04-441c-b39d-330bfa837818)
+
+<img width="1540" height="797" alt="image" src="https://github.com/user-attachments/assets/2d0056f1-2811-4774-abf4-dd5f10829c81" />
 
 ## City Dashboard
 ![Screenshot 2025-06-06 193222](https://github.com/user-attachments/assets/9975a3c4-e7b0-4b11-af57-8a48b1495c8f)
