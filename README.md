@@ -53,7 +53,8 @@ Use seasonal trend analysis to optimize marketing and resource planning during o
 <img width="1540" height="797" alt="image" src="https://github.com/user-attachments/assets/2d0056f1-2811-4774-abf4-dd5f10829c81" />
 
 ## City Dashboard
-![Screenshot 2025-06-06 193222](https://github.com/user-attachments/assets/9975a3c4-e7b0-4b11-af57-8a48b1495c8f)
+<img width="1552" height="796" alt="image" src="https://github.com/user-attachments/assets/41bfd59e-1ad0-4a37-a4bb-62a4a8ab84d1" />
+
 
 ## Passenger Dashboard
 ![Screenshot 2025-06-06 193324](https://github.com/user-attachments/assets/12c019ff-63ae-4ab7-b048-bdc6a9e0a217)
