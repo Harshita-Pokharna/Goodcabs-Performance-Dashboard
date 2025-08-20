@@ -57,7 +57,8 @@ Use seasonal trend analysis to optimize marketing and resource planning during o
 
 
 ## Passenger Dashboard
-![Screenshot 2025-06-06 193324](https://github.com/user-attachments/assets/12c019ff-63ae-4ab7-b048-bdc6a9e0a217)
+<img width="1547" height="795" alt="image" src="https://github.com/user-attachments/assets/8a5ef8af-6461-4981-b198-10aa06ba9275" />
+
 
 
 
